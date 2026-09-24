@@ -1,5 +1,5 @@
 .fade {
-    color: #402E2A;
+    color: #4A4E69;
     opacity: 0.5;
 }
 
@@ -9,15 +9,15 @@ body {
     place-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #FFF8F0;
+    background-color: #F7F7FF;
 }
 
 .calendar {
-    background-color: #FFF8F0;
+    background-color: #F7F7FF;
     border-radius: 25px;
     overflow: hidden;
     width: 320px;
-    color: #402E2A;
+    color: #4A4E69;
     padding: 20px;
 }
 
@@ -92,7 +92,7 @@ body {
 }
 
 .weekdays div, .days div {
-    color: #402E2A;
+    color: #4A4E69;
     width: 40px;
     height: 40px;
     display: flex;
@@ -118,5 +118,5 @@ body {
 }
 
 .days .fade {
-    color: #402E2A;
+    color: #4A4E69;
 }
